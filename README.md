@@ -36,3 +36,4 @@ _____________________
 - [Uso e implementacion de Git ](https://youtu.be/vlCXdvcgiE0)
 - [GitHub y sus repositorios a conocer](https://youtu.be/44ziZ12rJwU)
 - [Uso de Trello ](https://youtu.be/PvggrbuZA9Y)
+- [Tablero de Trello donde se trabajo](https://youtu.be/PvggrbuZA9Y](https://trello.com/b/9cqQUJXh/pruebasoftware)
