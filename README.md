@@ -1,4 +1,4 @@
-#Demostracion de las siguientes herramientas.
+# Demostracion de las siguientes herramientas.
 
 # GitHub y Trello
 
@@ -6,8 +6,8 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-
-#Trello
+ 
+# Trello
 
 ![](https://th.bing.com/th/id/R.88c5a89c43370d1fa8f95bcbb32be92b?rik=04qTKLmkMXqnLw&riu=http%3a%2f%2fblog.trello.com%2fwp-content%2fuploads%2f2011%2f09%2f03-Trello-300x1731.png&ehk=fxziI023AfE6gyGnR13wrEp4kZ5GSTwb4LbIUQwbK8g%3d&risl=&pid=ImgRaw&r=0)
 
@@ -15,14 +15,14 @@
     realizar tareas. Podemos utilizarla para proyectos en 
 	grupo o individuales
 
-#GitHub
+# GitHub
 
 ![](https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-1280x800.png)
 
 >Git es un software de control de versiones
 Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
 
-#Bibliografia.
+# Bibliografia.
 
 - [Uso e implementacion de Git ](https://youtu.be/vlCXdvcgiE0)
 - [GitHub y sus repositorios a conocer](https://youtu.be/44ziZ12rJwU)
